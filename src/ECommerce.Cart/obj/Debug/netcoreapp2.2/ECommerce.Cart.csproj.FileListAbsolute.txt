@@ -1,0 +1,14 @@
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/bin/Debug/netcoreapp2.2/ECommerce.Cart.deps.json
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/bin/Debug/netcoreapp2.2/ECommerce.Cart.runtimeconfig.json
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/bin/Debug/netcoreapp2.2/ECommerce.Cart.runtimeconfig.dev.json
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/bin/Debug/netcoreapp2.2/ECommerce.Cart.dll
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/bin/Debug/netcoreapp2.2/ECommerce.Cart.pdb
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/obj/Debug/netcoreapp2.2/ECommerce.Cart.csprojAssemblyReference.cache
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/obj/Debug/netcoreapp2.2/ECommerce.Cart.csproj.CoreCompileInputs.cache
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/obj/Debug/netcoreapp2.2/ECommerce.Cart.RazorAssemblyInfo.cache
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/obj/Debug/netcoreapp2.2/ECommerce.Cart.RazorAssemblyInfo.cs
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/obj/Debug/netcoreapp2.2/ECommerce.Cart.AssemblyInfoInputs.cache
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/obj/Debug/netcoreapp2.2/ECommerce.Cart.AssemblyInfo.cs
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/obj/Debug/netcoreapp2.2/ECommerce.Cart.RazorTargetAssemblyInfo.cache
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/obj/Debug/netcoreapp2.2/ECommerce.Cart.dll
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Cart/obj/Debug/netcoreapp2.2/ECommerce.Cart.pdb

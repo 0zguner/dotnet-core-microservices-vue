@@ -1,0 +1,14 @@
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/bin/Debug/netcoreapp2.2/ECommerce.Auth.deps.json
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/bin/Debug/netcoreapp2.2/ECommerce.Auth.runtimeconfig.json
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/bin/Debug/netcoreapp2.2/ECommerce.Auth.runtimeconfig.dev.json
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/bin/Debug/netcoreapp2.2/ECommerce.Auth.dll
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/bin/Debug/netcoreapp2.2/ECommerce.Auth.pdb
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/obj/Debug/netcoreapp2.2/ECommerce.Auth.csprojAssemblyReference.cache
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/obj/Debug/netcoreapp2.2/ECommerce.Auth.csproj.CoreCompileInputs.cache
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/obj/Debug/netcoreapp2.2/ECommerce.Auth.RazorAssemblyInfo.cache
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/obj/Debug/netcoreapp2.2/ECommerce.Auth.RazorAssemblyInfo.cs
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/obj/Debug/netcoreapp2.2/ECommerce.Auth.AssemblyInfoInputs.cache
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/obj/Debug/netcoreapp2.2/ECommerce.Auth.AssemblyInfo.cs
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/obj/Debug/netcoreapp2.2/ECommerce.Auth.RazorTargetAssemblyInfo.cache
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/obj/Debug/netcoreapp2.2/ECommerce.Auth.dll
+/Users/mustafaozguner/Kuzey/vue-core-microservices/src/ECommerce.Auth/obj/Debug/netcoreapp2.2/ECommerce.Auth.pdb
